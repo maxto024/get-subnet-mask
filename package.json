@@ -1,0 +1,12 @@
+{
+  "name": "get-subnet-mask",
+  "version": "1.1.11",
+  "description": "React Native Subnet Mask for IOS and Android",
+  "license": "MIT",
+  "main": "index.js",
+  "author": {
+    "name": "Hamid reza Pour khosh safar",
+    "email": "hrp_71@yahoo.com",
+    "url": "https://www.npmjs.com/~hrp_71"
+  }
+}

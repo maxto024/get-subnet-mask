@@ -1,0 +1,22 @@
+apply plugin: 'com.android.library'
+
+android {
+    //noinspection GradleCompatible
+    compileSdkVersion 23
+    buildToolsVersion '26.0.2'
+    defaultConfig {
+       minSdkVersion 16
+        targetSdkVersion 26
+        versionCode 1
+        versionName "1.0"
+        vectorDrawables.useSupportLibrary = true
+
+    }
+
+}
+
+dependencies {
+    //noinspection GradleCompatible
+    compile 'com.android.support:appcompat-v7:23.0.1'
+    compile 'com.facebook.react:react-native:0.20.1'
+}
