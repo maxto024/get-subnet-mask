@@ -4,6 +4,7 @@
   "description": "React Native Subnet Mask for IOS and Android",
   "license": "MIT",
   "main": "index.js",
+  "homepage": "https://github.com/kacgrzes/get-subnet-mask",
   "author": {
     "name": "Hamid reza Pour khosh safar",
     "email": "hrp_71@yahoo.com",
